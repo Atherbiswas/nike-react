@@ -11,3 +11,7 @@
 /* .card-bg{
     background-color: #F1F1F1;
 } */
+.img-size{
+    max-width: 60%;
+    height: auto;
+}
